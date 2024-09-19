@@ -1,6 +1,6 @@
 # T-20 World Cup Cricket Analytics
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/b465669e-4eb3-4fbd-be22-81418c7ebf9f?ctid=d0a26d55-d508-4924-ba9d-8f93f8c166f1&pbi_source=linkShare
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/1971d965-d648-4762-a121-42004afd3009?ctid=d0a26d55-d508-4924-ba9d-8f93f8c166f1&pbi_source=linkShare
 
 ## Situation
 
